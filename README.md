@@ -8,6 +8,6 @@ there are no external dependencies for the website. just download all the attach
 enter details as asked by the website and at the end upload any clear text document to test out the text scanner.
 
 ## References
-chat-gpt
-youtube.com
-google.com
+*chat-gpt
+*youtube.com
+*google.com
